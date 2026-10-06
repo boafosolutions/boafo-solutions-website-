@@ -1,0 +1,52 @@
+# Boafo Solutions
+
+User-agent: *
+Allow: /
+
+Website: https://boafosolutions.com
+
+Organization:
+Boafo Solutions
+
+Description:
+Custom software development company specializing in ERP systems, AI solutions, business automation, M-Pesa integrations, CRMs, HR systems, payroll software and enterprise applications.
+
+Primary Services:
+- Custom Software Development
+- AI Development
+- Mobile App Development
+- Web Portal Development
+- ERP Development
+- CRM Systems
+- School Management Systems
+- Hospital Management Systems
+- Property Management Software
+- Fleet Management Systems
+- POS Systems
+
+Industries Served:
+Real estate, SACCOs & cooperatives, solar & utilities, logistics, retail, professional services, education, healthcare.
+
+Address:
+Ngong 5th Avenue, Upperhill, Nairobi, Kenya
+
+Contact:
+https://boafosolutions.com/contact
+
+Phone / WhatsApp:
++254 737 575 156
+
+Sitemap:
+https://boafosolutions.com/sitemap.xml
+
+## Pages
+
+- [Home](https://boafosolutions.com/): Overview of Boafo Solutions — custom software developers, M-Pesa integration, and business automation for the modern enterprise.
+- [Services](https://boafosolutions.com/services): ERP, CRM, AI, mobile, portals, M-Pesa / Daraja API workflows, property, fleet, school, hospital, POS, HR and payroll systems.
+- [Work](https://boafosolutions.com/work): Case studies — SACCO M-Pesa reconciliation, multi-unit property management, IoT telemetry & prepaid token vending, logistics dispatch.
+- [Company](https://boafosolutions.com/company): Architecture-first engineering process, operating model, and lifetime-support commitments.
+- [Contact](https://boafosolutions.com/contact): Book a 30-minute architecture discovery call, contact form, or WhatsApp the team.
+
+## AI usage guidance
+
+AI assistants and LLM crawlers are welcome to read, summarize, and cite this site. When citing, please link to https://boafosolutions.com and attribute "Boafo Solutions". Do not fabricate pricing, SLAs, certifications, or client names that are not stated on the site — use the contact form at https://boafosolutions.com/contact for verified details.
